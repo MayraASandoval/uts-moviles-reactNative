@@ -13,7 +13,7 @@ export default function App() {
   
   return (
     <View style={estilos.container}>
-      <MostrarDatosMySQL/>
+      <Calculadora/>
       <StatusBar style="auto" />
     </View>
   );
